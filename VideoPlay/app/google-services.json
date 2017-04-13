@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "407378470117",
+    "firebase_url": "https://videoplay-e370a.firebaseio.com",
+    "project_id": "videoplay-e370a",
+    "storage_bucket": "videoplay-e370a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407378470117:android:103dc200443f8337",
+        "android_client_info": {
+          "package_name": "com.example.kennymac.videoplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407378470117-qdem1tff8uii9tno8e102vij6ebv6244.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kennymac.videoplay",
+            "certificate_hash": "c5df4ed8062235dc5baac47eeca5b051b368a9f8"
+          }
+        },
+        {
+          "client_id": "407378470117-e7ho5c6rvbh0vj5e9vfltv0t89os6ore.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfJtCwnqwS-CMqMgZZyqke612oQERmfOo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407378470117-e7ho5c6rvbh0vj5e9vfltv0t89os6ore.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
